@@ -1,7 +1,4 @@
 asana-hipchat.ipr
 asana-hipchat.iws
 asana-hipchat.iml
-ext-lib/asana.php
-config/config.php
-ext-lib/HipChat.php
 old_data.json
